@@ -17,7 +17,7 @@
 
 ## 💼 Currently working with UK Power Networks
 * Working on an internally used WebApp (C# Backend using Razor/HTML Frontend). 
-* Which is Designed to replace the use of outdated Excel spreadsheets.
+* Which is designed to replace the use of outdated Excel spreadsheets, as well as ease and enhance the jobs of the Customer Service Team.
 
 <!--
 **benjamano/benjamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
