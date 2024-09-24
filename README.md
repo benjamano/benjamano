@@ -9,7 +9,9 @@
 + Email: benmercer76@btinternet.com
 + Discord: benjamano
 
-💼 Currently work with UK Power Networks working on an internally used WebApp (C# Backend using Razor/HTML Frontend), designed to replace the use of outdated Excel spreadsheets.
+## 💼 Currently working with UK Power Networks
+* Working on an internally used WebApp (C# Backend using Razor/HTML Frontend). 
+* Which is Designed to replace the use of outdated Excel spreadsheets.
 
 <!--
 **benjamano/benjamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
