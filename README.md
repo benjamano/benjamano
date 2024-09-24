@@ -4,6 +4,11 @@
 * Zone Scoreboard
 * Discord Bot
 
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjamano&theme=react" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=benjamano&theme=react&utcOffset=8" height="180em" alt="Stats"/>
+</div>
+
 ## Get in contact:
 
 + Personal Website: https://benmercer.pythonanywhere.com/
