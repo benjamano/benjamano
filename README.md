@@ -4,10 +4,10 @@
 * Zone Scoreboard
 * Discord Bot
 
-### Get in contact:
+## Get in contact:
 
-Email: benmercer76@btinternet.com
-Discord: benjamano
++ Email: benmercer76@btinternet.com
++ Discord: benjamano
 
 <!--
 **benjamano/benjamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
