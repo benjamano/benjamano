@@ -5,8 +5,8 @@
 * Discord Bot
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjamano&theme=react" height="130em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=benjamano&theme=react&utcOffset=8" height="130em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjamano&theme=react" height="150em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=benjamano&theme=react&utcOffset=8" height="150em" alt="Stats"/>
 </div>
 
 ## Get in contact:
