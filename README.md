@@ -11,7 +11,7 @@
 
 ## Get in contact:
 
-+ Personal Website: https://benmercer.pythonanywhere.com/
++ Personal Website: [Click Me](https://benmercer.pythonanywhere.com/redirect=Github)
 + Email: benmercer76@btinternet.com
 + Discord: benjamano
 
