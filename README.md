@@ -6,7 +6,7 @@
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benjamano&theme=react" height="155em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=benjamano&theme=react&utcOffset=1" height="155em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=benjamano&theme=react" height="155em" alt="Stats"/>
 </div>
 
 ## Get in contact:
