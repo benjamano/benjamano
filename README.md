@@ -1,7 +1,7 @@
 ## Current Projects:
 
 * Personal Website
-* Zone Scoreboard
+* Zone Scoreboard / Lanyard
 * Discord Bot
 
 <div align="center">
