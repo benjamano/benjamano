@@ -9,6 +9,10 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=benjamano&theme=react" height="155em" alt="Stats"/>
 </div>
 
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benjamano&theme=react" height="155em" alt="Stats"/>
+</div>
+
 ## Get in contact:
 
 + Personal Website: [Click Me](https://benjaminmercer.co.uk/)
